@@ -7,7 +7,6 @@ A Python project analyzing air quality trends across Indian cities using open da
 - Data cleaning and preprocessing with Pandas
 - City-wise and time-based pollution trend analysis
 - Visualizations using Matplotlib
-- Modular code structure ready for Streamlit dashboard integration
 
 ## Folder Structure
 AirQualityDashboard/
